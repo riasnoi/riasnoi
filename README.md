@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riasnoi
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning django, js
-- 📫 How to reach me: DM in telegram @v_filatov
+- 👀 I’m interested in backend, data-science
+- 🌱 I’m currently learning python and working with telebot
+- 📫 How to reach me: DM in telegram @v_riasnoi
 
 <!---
 riasnoi/riasnoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
